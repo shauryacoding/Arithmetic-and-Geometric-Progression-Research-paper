@@ -32,9 +32,6 @@ pip install sympy
 # Run all verifications
 python progression_roots.py
 
-# Sample output
-![output](output.png)
-
 # Run a single case
 python progression_roots.py --degree 3 --type AP
 python progression_roots.py --degree 5 --type AP
