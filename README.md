@@ -33,7 +33,7 @@ pip install sympy
 python progression_roots.py
 
 # Sample output
-![output](output.png.png)
+![output](output.png)
 
 # Run a single case
 python progression_roots.py --degree 3 --type AP
